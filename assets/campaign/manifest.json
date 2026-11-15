@@ -1,0 +1,103 @@
+{
+  "brand": "Fresh Fruit Daily",
+  "generated_artwork": true,
+  "artwork_notice": "Illustrations, not actual product photographs",
+  "files": [
+    {
+      "path": "assets/campaign/instagram/01-seasonal.jpg",
+      "format": "JPEG",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "sha256": "6259757e047569a09ae1ff1e753a161ad33fda5e3f538b59700fa8d0b37bf739",
+      "artwork": "illustration, not product photography"
+    },
+    {
+      "path": "assets/campaign/instagram/02-your-routine.jpg",
+      "format": "JPEG",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "sha256": "6a7bdc149d07db079adb3218cf4ed62b37c5d9225231f087b2d65f67411ea592",
+      "artwork": "illustration, not product photography"
+    },
+    {
+      "path": "assets/campaign/instagram/03-freshness-tips.jpg",
+      "format": "JPEG",
+      "dimensions": [
+        1080,
+        1350
+      ],
+      "sha256": "8a4729600b9aae8c46338809956bd9888be5f7be344f961a5bd8ff22c6b1b01e",
+      "artwork": "illustration, not product photography"
+    },
+    {
+      "path": "assets/campaign/facebook/01-seasonal.jpg",
+      "format": "JPEG",
+      "dimensions": [
+        1200,
+        630
+      ],
+      "sha256": "5a4081cf5533f06a4f3ea01d86f6a3fab10d788ed7a5b6577cbc32407d0f1a0d",
+      "artwork": "illustration, not product photography"
+    },
+    {
+      "path": "assets/campaign/facebook/02-your-routine.jpg",
+      "format": "JPEG",
+      "dimensions": [
+        1200,
+        630
+      ],
+      "sha256": "f37fd5bb2eb6bc8c7a31b1b86b28c17b24da552a87cc19c213eb564c8c578d7b",
+      "artwork": "illustration, not product photography"
+    },
+    {
+      "path": "assets/campaign/facebook/03-freshness-tips.jpg",
+      "format": "JPEG",
+      "dimensions": [
+        1200,
+        630
+      ],
+      "sha256": "cdc2c9e78bcbde6b290a897feb979e005f3cb7923b289785251de644391bfd7b",
+      "artwork": "illustration, not product photography"
+    },
+    {
+      "path": "assets/campaign/editable/01-seasonal-facebook.svg",
+      "format": "SVG",
+      "sha256": "ad330ff886cc0f03007b60338951e28f89fd5cc68c8aa6f5642eb63479f25723",
+      "artwork": "editable illustration"
+    },
+    {
+      "path": "assets/campaign/editable/01-seasonal-instagram.svg",
+      "format": "SVG",
+      "sha256": "2af42a30c887aa00f9b7fe34684768b6d273d465106152f9200b3181e1bc3bd3",
+      "artwork": "editable illustration"
+    },
+    {
+      "path": "assets/campaign/editable/02-your-routine-facebook.svg",
+      "format": "SVG",
+      "sha256": "5f5ff5ff1f7d3b7d754d8fa515ef85b55ed37fe398a7530a0ec6fe51549c2439",
+      "artwork": "editable illustration"
+    },
+    {
+      "path": "assets/campaign/editable/02-your-routine-instagram.svg",
+      "format": "SVG",
+      "sha256": "29d81fac1d36d940e46fb8a8512cf83e15f57573364d46d503623197340a18ac",
+      "artwork": "editable illustration"
+    },
+    {
+      "path": "assets/campaign/editable/03-freshness-tips-facebook.svg",
+      "format": "SVG",
+      "sha256": "529da1ad03bd55b6e10c88f1841b75ea853adee5bbe681016ea678ca0bc4407e",
+      "artwork": "editable illustration"
+    },
+    {
+      "path": "assets/campaign/editable/03-freshness-tips-instagram.svg",
+      "format": "SVG",
+      "sha256": "949277593800204eadac6c697c794ab8aeb5bf5b9f080d77f13b3b7165b1de17",
+      "artwork": "editable illustration"
+    }
+  ]
+}

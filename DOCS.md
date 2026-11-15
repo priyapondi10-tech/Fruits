@@ -2,6 +2,15 @@
 
 Welcome to the **Fresh Fruit Daily** documentation. This guide covers box options, ordering workflows, storage tips, and delivery policies.
 
+## Quick Links
+- [Compare all fruit boxes](https://priyapondi10-tech.github.io/Fruits/#fruit-boxes)
+- [Daily Wellness Box](https://priyapondi10-tech.github.io/Fruits/#daily-wellness-box)
+- [Family Harvest Box](https://priyapondi10-tech.github.io/Fruits/#family-harvest-box)
+- [Exotic & Tropical Box](https://priyapondi10-tech.github.io/Fruits/#exotic-tropical-box)
+- [Customer guide and policies](https://priyapondi10-tech.github.io/Fruits/#subscription-guide)
+
+These links provide product information and do not submit an order.
+
 ## 1. Available Fruit Boxes
 - **Daily Wellness Box:** Single-serve portions of 4 seasonal fruits ideal for workdays and smoothies.
 - **Family Harvest Box:** 5 kg assortment of everyday staples (bananas, apples, papayas, pomegranates) plus 2 seasonal specialties.
